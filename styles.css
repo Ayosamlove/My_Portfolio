@@ -1,0 +1,5 @@
+.Back_image{
+    background-image: url("intro1.jpg");
+    background-size:inherit;
+    background-repeat: no-repeat;
+}
